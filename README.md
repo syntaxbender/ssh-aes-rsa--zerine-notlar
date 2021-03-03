@@ -12,5 +12,6 @@
 - The server can use the public key in this file to encrypt a challenge message to the client. If the client can prove that it was able to decrypt this message, it has demonstrated that it owns the associated private key. The server then can set up the environment for the client.
 ## Hash
 - Their main distinguishing attributes are that they are never meant to be reversed, they are virtually impossible to influence predictably, and they are practically unique.
+
 https://www.linkedin.com/pulse/comparing-ecc-vs-rsa-ott-sarv/
 https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
