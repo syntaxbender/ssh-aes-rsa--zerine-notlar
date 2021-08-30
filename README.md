@@ -15,3 +15,12 @@
 
 https://www.linkedin.com/pulse/comparing-ecc-vs-rsa-ott-sarv/
 https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
+
+https://crypto.stackexchange.com/questions/3608/why-is-padding-used-for-rsa-encryption-given-that-it-is-not-a-block-cipher
+https://sites.google.com/site/danzcosmos/the-rsa-algorithm
+https://www.hanselman.com/blog/decoding-an-ssh-key-from-pem-to-base64-to-hex-to-asn1-to-prime-decimal-numbers
+https://github.com/travist/jsencrypt/issues/110
+https://stackoverflow.com/questions/5974633/asn-1-der-formatted-private-key
+https://crypto.stackexchange.com/questions/1729/why-does-the-pkcs1-rsa-private-key-structure-contain-more-than-just-exponent-and
+https://stackoverflow.com/questions/17490282/why-is-this-commit-that-sets-the-rsa-public-exponent-to-1-problematic
+https://www.johndcook.com/blog/2018/12/12/rsa-exponent/
