@@ -23,4 +23,4 @@ https://github.com/travist/jsencrypt/issues/110
 https://stackoverflow.com/questions/5974633/asn-1-der-formatted-private-key
 https://crypto.stackexchange.com/questions/1729/why-does-the-pkcs1-rsa-private-key-structure-contain-more-than-just-exponent-and
 https://stackoverflow.com/questions/17490282/why-is-this-commit-that-sets-the-rsa-public-exponent-to-1-problematic
-https://www.johndcook.com/blog/2018/12/12/rsa-exponent/
+https://www.johndcook.com/blog/2018/12/12/rsa-exponent/ 
